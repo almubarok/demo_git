@@ -1,3 +1,6 @@
 # demo_git
 
-edit text
+Cara pindah branch:
+```
+git checkout feature_a
+```
