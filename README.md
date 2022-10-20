@@ -1,3 +1,3 @@
 # demo_git
 
-tambah text
+edit text
