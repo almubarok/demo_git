@@ -3,3 +3,4 @@
 3. change directory "cd <name folder>"
 4. ls
 5. git clone "<link clone>"
+6. cd <folder git>
