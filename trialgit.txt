@@ -1,0 +1,5 @@
+1. open git bash
+2. cek directory "pwd"
+3. change directory "cd <name folder>"
+4. ls
+5. git clone "<link clone>"
